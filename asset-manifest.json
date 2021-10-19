@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://dheerajjha97.github.io/csb-ojciz/static/js/main.b100c0b3.chunk.js",
+    "main.js.map": "https://dheerajjha97.github.io/csb-ojciz/static/js/main.b100c0b3.chunk.js.map",
+    "runtime-main.js": "https://dheerajjha97.github.io/csb-ojciz/static/js/runtime-main.3c32654d.js",
+    "runtime-main.js.map": "https://dheerajjha97.github.io/csb-ojciz/static/js/runtime-main.3c32654d.js.map",
+    "static/js/2.5cffc9b4.chunk.js": "https://dheerajjha97.github.io/csb-ojciz/static/js/2.5cffc9b4.chunk.js",
+    "static/js/2.5cffc9b4.chunk.js.map": "https://dheerajjha97.github.io/csb-ojciz/static/js/2.5cffc9b4.chunk.js.map",
+    "index.html": "https://dheerajjha97.github.io/csb-ojciz/index.html",
+    "precache-manifest.c3dfeb8e4bdfcab6cac410efe1fe506d.js": "https://dheerajjha97.github.io/csb-ojciz/precache-manifest.c3dfeb8e4bdfcab6cac410efe1fe506d.js",
+    "service-worker.js": "https://dheerajjha97.github.io/csb-ojciz/service-worker.js",
+    "static/js/2.5cffc9b4.chunk.js.LICENSE.txt": "https://dheerajjha97.github.io/csb-ojciz/static/js/2.5cffc9b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c32654d.js",
+    "static/js/2.5cffc9b4.chunk.js",
+    "static/js/main.b100c0b3.chunk.js"
+  ]
+}
